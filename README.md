@@ -72,23 +72,21 @@ print("RMSE:", rmse)
 ### OUTPUT:
 
 ### DATASET
-<br>
-<img width="229" height="178" alt="image" src="![alt text](image.png)" />
-<br>
+<img width="1073" height="587" alt="Screenshot 2025-10-06 160119" src="https://github.com/user-attachments/assets/460eefe1-595b-439b-ae60-2c6e8a63c306" />
+
+
 
 ### SEASONAL DECOMPOSITION
-<br>
-<img width="568" height="435" alt="image" src="![alt text](image-1.png)" />
-<br>
+<img width="781" height="585" alt="Screenshot 2025-10-06 160156" src="https://github.com/user-attachments/assets/812c7880-cdd8-45be-b719-f5c68b046f24" />
+
 
 ### TEST PREDICTION
-<br>
-<img width="302" height="87" alt="image" src="![alt text](image-2.png)" />
+<img width="698" height="166" alt="Screenshot 2025-10-06 160223" src="https://github.com/user-attachments/assets/cdd333b9-2a5d-437d-a745-199b20485b51" />
 
-<br>
 
 ### FINIAL PREDICTION
-<img width="836" height="428" alt="image" src="![alt text](image-3.png)" />
+<img width="1072" height="681" alt="Screenshot 2025-10-06 160246" src="https://github.com/user-attachments/assets/ca572971-3c68-431c-bc30-25234af19708" />
+
 
 
 ### RESULT:
